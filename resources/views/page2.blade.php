@@ -12,7 +12,7 @@
         <div class="container d-flex justify-content-center mt-5">
 
             <h1>
-                ARAIS KRYSTILLE NICOLE
+                BOLIGAO SWEET MAEVEL
             </h1>
         </div>
 
